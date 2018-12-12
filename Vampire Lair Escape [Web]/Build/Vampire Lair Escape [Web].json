@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Stealth Vampire",
+"dataUrl": "Vampire Lair Escape [Web].data.unityweb",
+"wasmCodeUrl": "Vampire Lair Escape [Web].wasm.code.unityweb",
+"wasmFrameworkUrl": "Vampire Lair Escape [Web].wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
